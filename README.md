@@ -1,3 +1,9 @@
-# Dev1
+# Dev 1 
 
-meow sda
+Hi All here i just create simple website to learn web hacking.
+
+Vulnerable I implement in this kedai kopi it's
+1. SQL Injection
+2. File Upload 
+3. Cross site scripting (XSS)
+4. Open Redirect
